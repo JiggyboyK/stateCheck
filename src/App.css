@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.barry{
+  /* font-size: 100px; */
+  max-width: 400px ;
+  max-height: 400px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
